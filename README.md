@@ -156,3 +156,15 @@ Behavior:
 ![ATM Simulator Start Behaviour](https://github.com/user-attachments/assets/2eed9903-e914-464f-81e3-e25734bf04f8)
 
 ![ATM Simulator Run Behaviour](https://github.com/user-attachments/assets/528ca2d6-31a7-4ba0-bf27-f0131fbba171)
+
+# Output Examples
+
+## Application Menus
+<img width="909" height="498" alt="image" src="https://github.com/user-attachments/assets/b583ec68-3e80-41a6-8ad8-0e147d009e56" />
+
+## Creating an Account
+<img width="906" height="865" alt="image" src="https://github.com/user-attachments/assets/210e1d8b-0da3-4e2f-bf2a-2da7568fe856" />
+
+## Banking Transactions
+<img width="906" height="865" alt="image" src="https://github.com/user-attachments/assets/96236b70-d92e-4b61-a9a5-75579eecd418" />
+
